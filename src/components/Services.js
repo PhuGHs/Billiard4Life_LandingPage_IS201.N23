@@ -43,7 +43,7 @@ const Services = () => {
           </div>
           <div className="max-w-lg mx-auto bg-white shadow-2xl rounded-lg overflow-hidden">
             <img
-              src="https://rare-gallery.com/uploads/posts/376007-4k-wallpaper.jpg"
+              src="billiard.png"
               alt=""
               className="width-full"
             />
